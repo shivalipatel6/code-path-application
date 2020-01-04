@@ -4,8 +4,6 @@
 This app allows for the user to change the color of the welcome text, as well as the app background color, and the contents of the welcome text. This app was created using andriod studio.
 
 ### App Walk-though
-`TODO://` Add the URL to your animated app walk-though `gif` in the image tag below. Make sure the gif actually renders and animates when viewing this README. (☝️ Remove this paragraph after after adding gif)
-
 <img src="application-gif-app2.gif" width=200><br>
 
 ### Required User Stories
