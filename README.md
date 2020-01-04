@@ -6,7 +6,7 @@ This app allows for the user to change the color of the welcome text, as well as
 ### App Walk-though
 `TODO://` Add the URL to your animated app walk-though `gif` in the image tag below. Make sure the gif actually renders and animates when viewing this README. (☝️ Remove this paragraph after after adding gif)
 
-<img src="https://recordit.co/yQetHdxm6k" width=200><br>
+<img src="https://s3.amazonaws.com/img0.recordit.co/yQetHdxm6k.mp4?AWSAccessKeyId=AKIAINSRFOQXTN4DT46A&Expires=1578099818&Signature=zudfb8RwFa9FSDgMZ7Bsw4ruRxA%3Dhttps://recordit.co/yQetHdxm6k" width=200><br>
 
 ### Required User Stories
 - [X] 1. User sees custom text in a label - Hello from {name}!
